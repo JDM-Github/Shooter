@@ -1,0 +1,8 @@
+{
+    "BOOST": "shift",
+    "UP": "w",
+    "DOWN": "s",
+    "LEFT": "a",
+    "RIGHT": "d",
+    "FIRE": "f"
+}

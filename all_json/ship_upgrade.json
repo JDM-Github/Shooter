@@ -1,0 +1,10 @@
+{
+    "S-01": {
+        "health": 4,
+        "shield_d": 4,
+        "damage_m": 4,
+        "damage": 4,
+        "regen": 4,
+        "cooldown": 4
+    }
+}
